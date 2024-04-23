@@ -31,6 +31,6 @@ Please refer to the `retrieve_movie_data.ipynb` notebook for detailed steps and 
 - **The Movie Database API**: Unfortunately, the data extraction from The Movie Database API did not work as expected. We encountered issues while trying to access this API. Further investigation is needed to resolve these issues.
 
 ## Sources
-Module 6 Challenge Files
-Github Copilot
+- **Module 6 Challenge Files**
+- **Github Copilot**
 
